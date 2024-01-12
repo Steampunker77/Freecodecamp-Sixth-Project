@@ -1,0 +1,17 @@
+1 <!DOCTYPE html>
+2 <html lang="en">
+3  <head>
+4    <meta charset="UTF-8">
+5    <title>Rothko Painting</title>
+6    <link href="./styles.css" rel="stylesheet">
+7  </head>
+8  <body>
+9    <div class="frame">
+10      <div class="canvas">
+11        <div class="one"></div>
+12        <div class="two"></div>
+13        <div class="three"></div>
+14      </div>
+15    </div>
+16  </body>
+17 </html>
